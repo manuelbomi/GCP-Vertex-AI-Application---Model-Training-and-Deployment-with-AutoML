@@ -112,7 +112,7 @@ In this discourse, we also provide details about the cost implication of using V
 ![Image](https://github.com/user-attachments/assets/d141fa4c-1627-4800-8364-58826c2b506a)
 
 ##### Choose an estimated budget time for training your model. Average could be 1 to 4 hours depending on the dataset.
-##### (Ensure that the data that you use to train your model is of good quality. The GCP Dataflow pipelines and the Vertex AI DAGs may keep breaking if the data is of low quality)
+##### (Ensure that the data that you use to train your model is of good quality. The GCP Dataflow pipelines and the Vertex AI DAGs (Direct Acyclic Graphs) may keep breaking if the data is of low quality)
 (Do not forget to set a billing threshold alarm under your billing. The alarm will email you once the threshold that your set is met)
 
 ![Image](https://github.com/user-attachments/assets/62f08519-b088-4e58-a229-e7cf4d3a42b5)
