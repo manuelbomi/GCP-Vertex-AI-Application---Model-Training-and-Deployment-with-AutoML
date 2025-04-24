@@ -193,7 +193,7 @@ In this discourse, we also provide details about the cost implication of using V
  ![Image](https://github.com/user-attachments/assets/73e869a2-ff5c-4784-b358-995f3281dcd4)
  
 
-##### In this case, the person may not deposit since the model predicted a 'yes' by 35% and a 'no' 65%
+##### In this case, the person may not deposit since the model predicted a 'yes' by 35% and a 'no' by 65%
 
  ![Image](https://github.com/user-attachments/assets/1d41d8e5-b4b4-440d-b74c-37805ed79293)
 
@@ -203,7 +203,7 @@ In this discourse, we also provide details about the cost implication of using V
  ![Image](https://github.com/user-attachments/assets/87972efa-74c8-4123-89c0-62bab768c606)
 
   ##### User can vary the bank customers' parameters such as age and job to observe their effects on prediction. 
-  ##### After lowering the age, the model predicted (79%) that the customer may  deposit 
+  ##### After lowering the age, the model predicted (by 79%) that the customer may  deposit 
 
   ![Image](https://github.com/user-attachments/assets/662a5c10-dbdc-4747-9154-1320a271d335)
 
