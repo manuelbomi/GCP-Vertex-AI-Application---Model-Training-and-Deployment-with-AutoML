@@ -103,7 +103,7 @@ In this discourse, we also provide details about the cost implication of using V
 
 ![Image](https://github.com/user-attachments/assets/7ef23e59-a780-4197-8b84-df33a83228f8)
 
-##### You can choose to allow AutoML to choose best transformation option
+##### You can choose to allow AutoML to choose the best transformation option during the model training.
 
 ![Image](https://github.com/user-attachments/assets/71b538e5-5abe-4f4e-b240-fdb11aef95cd)
 
@@ -111,16 +111,18 @@ In this discourse, we also provide details about the cost implication of using V
 
 ![Image](https://github.com/user-attachments/assets/d141fa4c-1627-4800-8364-58826c2b506a)
 
-##### Choose an estimated budget time for training your model. Average could be 1 to 4 hours depending on dataset.
+##### Choose an estimated budget time for training your model. Average could be 1 to 4 hours depending on the dataset.
+##### (Ensure that the data that you use to train your model is of good quality. The GCP Dataflow pipelines and the Vertex AI DAGs may keep breaking if the data is of low quality)
 (Do not forget to set a billing threshold alarm under your billing. The alarm will email you once the threshold that your set is met)
 
 ![Image](https://github.com/user-attachments/assets/62f08519-b088-4e58-a229-e7cf4d3a42b5)
 
 ##### Grant the necessary roles under IAM permissions
+##### (Vertex AI DAGs may keep breaking if you do not give your project the necessary IAM permissions to access and work with the data in the cloud repo. Under IAM roles, ensure that your grant your project the Editor or Owner role so that it can work with the data in the repo. The training flow may keep breaking if the necessary permissions are not given)
 
 ![Image](https://github.com/user-attachments/assets/a01da254-a9d1-4c10-b631-7e8872d33e46)
 
- ##### Grant the necessary roles under IAM permission if required
+
 
  ![Image](https://github.com/user-attachments/assets/3fb139b5-2d74-4d30-88e8-b148eeb784ac)
 
