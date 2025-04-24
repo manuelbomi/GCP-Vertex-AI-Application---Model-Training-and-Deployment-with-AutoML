@@ -9,11 +9,13 @@ In this discourse, we shall show in details how Vertex AI can be used to train, 
 
 ![Image](https://github.com/user-attachments/assets/7b181aff-5e21-497b-8f9c-f14752fda45f)
 
-select the project
+##### After creating the project, select the project
 
 ![Image](https://github.com/user-attachments/assets/7abb53e2-00ea-4710-99c2-927f2b859042)
 
-Associate the project to a billing account
+##### Associate the project to a billing account
+In this discourse, we also provided details about the cost implication of using Vertex AI to train the model an ddeploy it. The cost implication shall provide some relative guidance regarding cost to developers. 
+
 ![Image](https://github.com/user-attachments/assets/3fe94f99-994d-44fa-894e-1e6bf6a6945d)
 
 go back to cloud.google.com and select view all products
