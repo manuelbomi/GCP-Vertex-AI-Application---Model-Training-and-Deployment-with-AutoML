@@ -18,55 +18,70 @@ In this discourse, we also provided details about the cost implication of using 
 
 ![Image](https://github.com/user-attachments/assets/3fe94f99-994d-44fa-894e-1e6bf6a6945d)
 
-go back to cloud.google.com and select view all products
+##### Navigate back to your homepage at cloud.google.com and select 'view all products'
+
 
 ![Image](https://github.com/user-attachments/assets/91746335-ba86-4d4f-a643-027af53d0872)
 
-look for VertexAI and pin it to ur menu. Then select VertexAI
+##### Look for Vertex AI and pin it to ur menu for easier accessibility for subsequent projects. 
+##### Select Vertex AI
+
 
 ![Image](https://github.com/user-attachments/assets/4631d4e0-b70a-4d8e-b6fa-baaa7b474fa7)
 
-enable vertexAI
+##### Enable vertexAI
+
 
 ![Image](https://github.com/user-attachments/assets/58c86c68-9da5-4849-9ff1-78e6ba1c88c5)
 
-Select datasets on the left hand menu
+##### Select datasets on the left hand menu
+
 
 ![Image](https://github.com/user-attachments/assets/82313eee-8ecf-46a8-b545-6ed319f50c6a)
 
- select create dataset
+##### Select create dataset
+
 
  ![Image](https://github.com/user-attachments/assets/79587aa5-c6d3-441e-8f42-ffcfc0102ee8)
 
-select region give the dataset a name and select regression as the type on analysis
+##### Select region.  Give the dataset a name 
+##### select regression as the type of analysis
+
 
 ![Image](https://github.com/user-attachments/assets/bbe0af1e-5285-4f6c-900c-3ade56c770a2)
 
-click the appropriate region and select create
+##### Click the appropriate region and select create
+
 ![Image](https://github.com/user-attachments/assets/d5dc461f-f476-405e-8e3d-dfbabe9f6c8a)
 
-add data to your project
+##### Add data to your project
 
 ![Image](https://github.com/user-attachments/assets/3bb9d1f2-e7a2-46c4-abb8-4157c007bc82)
 
-Select a cloud storage path to upload data to
+##### Select a cloud storage path to upload data to
+
+
 ![Image](https://github.com/user-attachments/assets/551b54e1-b43d-4116-98d4-964a0bf18226)
 
-click generate statistics
+##### Click 'generate statistics'
 
 ![Image](https://github.com/user-attachments/assets/f6798449-3904-451f-89c4-746e1457f0af)
 
-Statistics summary
+##### Here is a summary of the data statistics 
+
 ![Image](https://github.com/user-attachments/assets/e88ba39b-8dba-411e-a929-750ccf86d796)
 
-click on any column to see detailed stats
+##### Click on any column to see detailed statistics
 ![Image](https://github.com/user-attachments/assets/868a4477-ba4e-47d0-b299-424e124c25c2)
 
-age stats 
+##### Example of age statistics
 
 ![Image](https://github.com/user-attachments/assets/71a51858-fc68-4eaf-b561-552c13161d5a)
 
+
 ![Image](https://github.com/user-attachments/assets/24baa201-dcb0-4387-9ff6-ae75eea48c4e)
+
+#### Model Training
 
 click train new model and select AutoML to let VertexAI select best model for this dataset
 
