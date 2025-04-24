@@ -91,7 +91,7 @@ In this discourse, we also provide details about the cost implication of using V
 
 ![Image](https://github.com/user-attachments/assets/23a0d56e-2694-4875-9960-2edf8c0339ce)
 
-##### Select the one off training method
+##### Select the 'one-off' training method
 
 ![Image](https://github.com/user-attachments/assets/de88d581-9532-4dbe-b8a3-73f8db296012)
 
