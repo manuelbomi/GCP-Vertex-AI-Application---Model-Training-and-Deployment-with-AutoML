@@ -103,7 +103,7 @@ In this discourse, we also provide details about the cost implication of using V
 
 ![Image](https://github.com/user-attachments/assets/7ef23e59-a780-4197-8b84-df33a83228f8)
 
-##### You can choose to allow AUtoML to choose best transformation option
+##### You can choose to allow AutoML to choose best transformation option
 
 ![Image](https://github.com/user-attachments/assets/71b538e5-5abe-4f4e-b240-fdb11aef95cd)
 
@@ -111,7 +111,8 @@ In this discourse, we also provide details about the cost implication of using V
 
 ![Image](https://github.com/user-attachments/assets/d141fa4c-1627-4800-8364-58826c2b506a)
 
-##### Choose an estimated budget time for training your model. Average could be 1 to 4 hours depending on dataset
+##### Choose an estimated budget time for training your model. Average could be 1 to 4 hours depending on dataset.
+(Do not forget to set a billing threshold alarm under your billing. The alarm will email you once the threshold that your set is met)
 
 ![Image](https://github.com/user-attachments/assets/62f08519-b088-4e58-a229-e7cf4d3a42b5)
 
