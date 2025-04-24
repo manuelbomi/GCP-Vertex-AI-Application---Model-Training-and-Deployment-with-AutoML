@@ -44,7 +44,7 @@ In this discourse, we also provide details about the cost implication of using V
 
  ![Image](https://github.com/user-attachments/assets/79587aa5-c6d3-441e-8f42-ffcfc0102ee8)
 
-##### Select region.  Give the dataset a name 
+##### Give the dataset a name 
 ##### Select regression as the type of analysis
 
 
