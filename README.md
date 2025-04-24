@@ -118,7 +118,7 @@ In this discourse, we also provide details about the cost implication of using V
 ![Image](https://github.com/user-attachments/assets/62f08519-b088-4e58-a229-e7cf4d3a42b5)
 
 ##### Grant the necessary roles under IAM permissions
-##### (Vertex AI DAGs may keep breaking if you do not give your project the necessary IAM permissions to access and work with the data in the cloud repo. Under IAM roles, ensure that your grant your project the Editor or Owner role so that it can work with the data in the repo. The training flow may keep breaking if the necessary permissions are not given)
+##### (Vertex AI DAGs may keep breaking if you do not give your project the necessary IAM permissions to access and work with the data in the cloud repo. Under IAM roles, ensure that you grant your project the Editor or Owner role so that it can work freely with the data in the repo. The training flow may keep breaking if the necessary permissions are not given)
 
 ![Image](https://github.com/user-attachments/assets/a01da254-a9d1-4c10-b631-7e8872d33e46)
 
