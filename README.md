@@ -1,4 +1,8 @@
 # GCP-Vertex-AI-Application---Model-Training-and-Deployment-with-AutoML
+####
+Vertex AI is a comprehensive, unified machine learning (ML) platform offered by Google Cloud Platform (GCP). It enables developers  to build, train, deploy, and scale ML models and AI applications, including those leveraging large language models (LLMs). It integrates data engineering, data science, and ML engineering workflows, enabling teams to collaborate effectively and leverage GCP's infrastructure for scalability.
+
+In this discourse, we shall show in details how Vertex AI can be used to train, build and deploy a model that can be used to predict whether on not a bank customer will make a deposit. The training data can be downloaded from Kaggle and interested users can also obtain it through this repo at: 
 
 Start a new Vertex AI project 
 
@@ -165,6 +169,8 @@ deposit yes 35% no 65 %
 
  ![Image](https://github.com/user-attachments/assets/1d41d8e5-b4b4-440d-b74c-37805ed79293)
 
+ 
+
 
  ![Image](https://github.com/user-attachments/assets/87972efa-74c8-4123-89c0-62bab768c606)
 
@@ -181,6 +187,8 @@ deposit yes 35% no 65 %
 Cost of running and deploying the model as shown by GCP Gemini is a littel over $64 (USD), which looks a little steep given that the model was trained for less than 4 hours.
 
    ![Image](https://github.com/user-attachments/assets/b07d8c7e-897e-4951-bbaa-50cc8e3d75eb)
+
+Complete breakdown of the cost could be obtained at:   https://github.com/manuelbomi/GCP-Vertex-AI-Application---Model-Training-and-Deployment-with-AutoML/blob/main/Cost%20of%20training%20model%20by%20GCP%20Vertex%20AI.csv
 
    
 
