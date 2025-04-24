@@ -23,7 +23,7 @@ In this discourse, we also provide details about the cost implication of using V
 
 ![Image](https://github.com/user-attachments/assets/91746335-ba86-4d4f-a643-027af53d0872)
 
-##### Look for Vertex AI and pin it to ur menu for easier accessibility for subsequent projects. 
+##### Look for Vertex AI and pin it to your menu for easier accessibility on subsequent projects. 
 ##### Select Vertex AI
 
 
