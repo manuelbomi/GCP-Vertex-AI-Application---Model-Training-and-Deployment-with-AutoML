@@ -279,6 +279,29 @@ In this discourse, we also provide details about the cost implication of using V
  ![Image](https://github.com/user-attachments/assets/3d7459d6-3448-4139-8440-3170b450c9f8)
 
 
+ ---
+Thank you for reading through
+
+---
+
+Author's Background
+
+```
+> [!NOTE]
+Author's Name:  Emmanuel Oyekanlu
+Skillset:   I have experience spanning several years in developing scalable enterprise data pipelines, architecting enterprise
+data solutions, deep learning and LLM applications as well as deploying solutions (apps) on-prem and in the cloud.
+I can be reached through: manuelbomi@yahoo.com
+Website:  http://emmanueloyekanlu.com/
+Publications:  https://scholar.google.com/citations?user=S-jTMfkAAAAJ&hl=en
+LinkedIn:  https://www.linkedin.com/in/emmanuel-oyekanlu-6ba98616
+Github:  https://github.com/manuelbomi
+
+```
+
+[![Icons](https://skillicons.dev/icons?i=aws,azure,gcp,scala,mongodb,redis,cassandra,kafka,anaconda,matlab,nodejs,django,py,c,anaconda,git,github,mysql,docker,kubernetes&theme=dark)](https://skillicons.dev)
+
+
 
 
 
