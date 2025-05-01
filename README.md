@@ -278,8 +278,12 @@ In this discourse, we also provide details about the cost implication of using V
 ##### The cost of running and deploying the model as shown by GCP Gemini is a little over $64 (USD), which looks a little steep given that the model was trained for less than 4 hours.
  ![Image](https://github.com/user-attachments/assets/3d7459d6-3448-4139-8440-3170b450c9f8)
 
+---
+![Image](https://github.com/user-attachments/assets/b07d8c7e-897e-4951-bbaa-50cc8e3d75eb)
 
- ---
+Complete breakdown of the cost could be obtained at:   https://github.com/manuelbomi/GCP-Vertex-AI-Application---Model-Training-and-Deployment-with-AutoML/blob/main/Cost%20of%20training%20model%20by%20GCP%20Vertex%20AI.csv
+
+---
 Thank you for reading through
 
 ---
@@ -300,14 +304,6 @@ Github:  https://github.com/manuelbomi
 ```
 
 [![Icons](https://skillicons.dev/icons?i=aws,azure,gcp,scala,mongodb,redis,cassandra,kafka,anaconda,matlab,nodejs,django,py,c,anaconda,git,github,mysql,docker,kubernetes&theme=dark)](https://skillicons.dev)
-
-
-
-
-
-   ![Image](https://github.com/user-attachments/assets/b07d8c7e-897e-4951-bbaa-50cc8e3d75eb)
-
-Complete breakdown of the cost could be obtained at:   https://github.com/manuelbomi/GCP-Vertex-AI-Application---Model-Training-and-Deployment-with-AutoML/blob/main/Cost%20of%20training%20model%20by%20GCP%20Vertex%20AI.csv
 
    
 
