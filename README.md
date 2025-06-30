@@ -1,4 +1,4 @@
-# GCP-Vertex-AI-Application---Machine Learning Model-Training-and-Deployment-with-AutoML
+# GCP Vertex-AI Application---Machine Learning Model Training and Deployment with AutoML
 ### Brief Background About GCP's Vertex AI
 Vertex AI is a comprehensive, unified machine learning (ML) platform offered by Google Cloud Platform (GCP). It enables developers  to build, train, deploy, and scale ML models and AI applications, including those leveraging large language models (LLMs). It integrates data engineering, data science, and ML engineering workflows, enabling teams to collaborate effectively and leverage GCP's infrastructure for scalability.
 
